@@ -6,14 +6,16 @@ Spécialisation DEVOPS
 
 ## Qui sommes nous
 
-<div align="center">
-    <figure>
+<figure>
+    <div align="center">
         <a href="https://trombi-p3.netlify.app">
             <img src="./profile/img/map.png" alt="map.png" style="width: 300px !important;">
         </a>
+    </div>
+    <div align="center">
         <figcaption><a href="https://trombi-p3.netlify.app" align="center">https://trombi-p3.netlify.app</a> (<a href="https://github.com/Sara-Dona">Sara</a>, <a href="https://github.com/Andrealpz">Andrea</a>, <a href="https://github.com/FlexCodeur">Mehdi</a>)</figcaption>
-    </figure>
-</div>
+    </div>
+</figure>
 
 ## Langages
 
