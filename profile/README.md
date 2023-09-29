@@ -4,6 +4,17 @@ Titre Professionnel
 Concepteur Développeur d'Applications 2023 - France  
 Spécialisation DEVOPS
 
+## Qui sommes nous
+
+<div align="center">
+    <figure>
+        <a href="https://trombi-p3.netlify.app">
+            <img src="./profile/img/map.png" alt="map.png" style="width: 300px !important;">
+        </a>
+        <figcaption><a href="https://trombi-p3.netlify.app" align="center">https://trombi-p3.netlify.app</a> (<a href="https://github.com/Sara-Dona">Sara</a>, <a href="https://github.com/Andrealpz">Andrea</a>, <a href="https://github.com/FlexCodeur">Mehdi</a>)</figcaption>
+    </figure>
+</div>
+
 ## Langages
 
 &nbsp;&nbsp;
