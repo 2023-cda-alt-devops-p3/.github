@@ -9,7 +9,7 @@ Spécialisation DEVOPS
 <figure>
     <div align="center">
         <a href="https://trombi-p3.netlify.app">
-            <img src="./profile/img/map.png" alt="map.png" style="width: 300px !important;">
+            <img src="./profile/img/map-p3.png" alt="map-p3.png" style="width: 300px !important;">
         </a>
     </div>
     <div align="center">
