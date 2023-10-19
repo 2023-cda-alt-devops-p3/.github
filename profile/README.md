@@ -17,7 +17,7 @@ Spécialisation DEVOPS
     </div>
 </figure>
 
-## Langages
+## Technologies
 
 &nbsp;&nbsp;
 ![img_html](./profile/img/html.svg)
@@ -35,6 +35,8 @@ Spécialisation DEVOPS
 ![img_sqlite](./profile/img/sqlite.svg)
 &nbsp;&nbsp;
 ![img_microsoftsqlserver](./profile/img/microsoftsqlserver.svg)
+&nbsp;&nbsp;
+![img_figma](./profile/img/figma.svg)
 
 ## Réalisations
 
